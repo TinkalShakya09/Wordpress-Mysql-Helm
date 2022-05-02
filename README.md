@@ -1,5 +1,5 @@
 # Wordpress-Mysql-Helm
-Wordpress connect with Mysql using Helm
+Created a helm chart for wordpress and Mysql database on k8s
 
 ## Firstly start the minikube (k8s)
 minikube start
