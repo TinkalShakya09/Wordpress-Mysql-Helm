@@ -1,7 +1,7 @@
 # Wordpress-Mysql-Helm
 Wordpress connect with Mysql using Helm
 
-## Firstly start the minikube 
+## Firstly start the minikube (k8s)
 minikube start
 
 ## Need to download & install the Helm in your System and set the environment
